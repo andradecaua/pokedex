@@ -1,0 +1,16 @@
+{
+  "name": "pokedexback",
+  "version": "1.0.0",
+  "description": "Back-end do meu app de pokedex",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon start app.js"
+  },
+  "author": "Cauã Sampaio",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
